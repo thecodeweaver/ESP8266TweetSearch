@@ -3,7 +3,7 @@
  Thanks debsahu for the [TwitterWebAPI library](https://github.com/debsahu/TwitterWebAPI)!
 
 ## Wiring
-   D1 Mini 3V -> SSD1306 VCC
-   D1 Mini GND -> SSD1306 GND
-   D1 Mini D2 Pin -> SSD1306 SDA
-   D1 Mini D1 Pin -> SSD1306 SCL
+   - D1 Mini 3V -> SSD1306 VCC
+   - D1 Mini GND -> SSD1306 GND
+   - D1 Mini D2 Pin -> SSD1306 SDA
+   - D1 Mini D1 Pin -> SSD1306 SCL
